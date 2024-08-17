@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BBCNewsReader</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="welcome_to_the_news_fragment">Welcome to the News Fragment</string>
+    <string name="refresh">Refresh</string>
+    <string name="settings_activity">Settings Activity</string>
+    <string name="news_title">News Title</string>
+    <string name="news_content">News Content</string>
+    <string name="favorites_activity">Favorites Activity</string>
+</resources>

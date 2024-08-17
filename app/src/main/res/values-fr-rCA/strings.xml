@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LecteurDeNouvellesBBC</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="welcome_to_the_news_fragment">Bienvenue dans le fragment des nouvelles</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="settings_activity">Activité Paramètres</string>
+    <string name="news_title">Titre des nouvelles</string>
+    <string name="news_content">Contenu des nouvelles</string>
+    <string name="favorites_activity">Activité Favoris</string>
+</resources>
